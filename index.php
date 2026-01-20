@@ -27,6 +27,12 @@
 			<div id="right"></div>
 		</div>
 
+		<div class="credit-status-container">
+			
+
+
+		</div>
+
 		<script src="assets/scripts/calender.js"></script>
 
 	</body>
